@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "TongLi's acad-Homepage"
-description              : "Postdoctoral researcher at TU Wien specializing in cavity optomechanics, atomic physics, and nonreciprocal light–matter interactions."
+description              : "Postdoctoral researcher at Atominstitut of TU Wien specializing in cavity optomechanics, atomic physics, and nonreciprocal light–matter interactions."
 repository               : "TongLi1995/TongLi1995.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,8 +24,8 @@ author:
   name             : "Tong Li"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Postdoc"
-  location         : "Vienna, Austria"
-  employer         : # "Atominstitut of TU Wien, Austria"
+  location         : #"Vienna, Austria"
+  employer         : "Atominstitut of TU Wien, Austria"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oT-rbCMAAAAJ"
   email            : "tong.li@tuwien.ac.at"
