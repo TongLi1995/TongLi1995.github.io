@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Dr"
+title                    : "TongLi's acad-Homepage"
 description              : "Postdoctoral researcher at TU Wien specializing in cavity optomechanics, atomic physics, and nonreciprocal light–matter interactions."
 repository               : "TongLi1995/TongLi1995.github.io"
 google_scholar_stats_use_cdn : true
