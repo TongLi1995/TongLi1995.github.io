@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Dr"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Postdoctoral researcher at TU Wien specializing in cavity optomechanics, atomic physics, and nonreciprocal light–matter interactions."
 repository               : "TongLi1995/TongLi1995.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tong Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Postdoc"
   location         : "Vienna, Austria"
-  employer         : "TU Wien"
+  employer         : # "Atominstitut of TU Wien, Austria"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oT-rbCMAAAAJ"
   email            : "tong.li@tuwien.ac.at"
