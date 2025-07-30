@@ -23,8 +23,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *01.04.2025*: &nbsp;🎉🎉 I am arriving in Vienna.
-- *30.10.2024*: &nbsp;🎉🎉 I successfully cool the center-of-mass motion of a nanoparticle along the cavity axis to its quantum ground state (minimum phonon number n ≈ 0.47).
+<div class="hanging-indent">
+2025.04.01 🎉🎉I arrive in Vienna to begin my new research journey.
+</div>
+<div class="hanging-indent">
+2024.10.30 🎉🎉 I successfully cooled the center-of-mass motion of a nanoparticle along the cavity axis to its quantum ground state (⟨n⟩ ≈ 0.47).
+</div>
   
 # 🦶 Professional Experience
 - *04.2025 - At present*, Postdoctoral researcher, Atominstitut of TU Wien, Austria.
