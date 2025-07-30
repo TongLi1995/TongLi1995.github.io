@@ -28,10 +28,9 @@ My research interest includes neural machine translation and computer vision. I 
   
 # 🦶 Professional Experience
 - *04.2025 - At present*, Postdoctoral researcher, Atominstitut of TU Wien, Austria.
-- *06.2022 - 03.2025*, Postdoctoral researcher, Zhejiang Lab, China.<br>
-      - Ground-state cooling of levitated nanoparticles (⟨n⟩ ≈ 0.47)<br>
-      - Designed tunable dipole–dipole interactions in optical tweezers
-      - 11
+- *06.2022 - 03.2025*, Postdoctoral researcher, Zhejiang Lab, China <br>
+              - Developed a cavity cooling platform and successfully cooled the center-of-mass motion of a nanoparticle along the cavity axis to its quantum ground state (minimum phonon number n ≈ 0.47).<br>
+              - Designed and built an experimental setup to investigate dipole–dipole interactions between two nanoparticles confined in optical traps with orthogonal polarizations. (*Photon. Res.12 (10), 2139-2147, 2024*).<br>
 - *09.2017 - 06.2022*, PhD in physics, Zhejiang University, China.
 
 # 📖 Educations
