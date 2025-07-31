@@ -27,18 +27,28 @@ My research interest includes neural machine translation and computer vision. I 
 - *30.10.2024*, 🎉🎉 I successfully cool the COM motion of a nanoparticle along the cavity axis to its quantum ground state (n ≈ 0.47).
   
 # 🦶 Professional Experience
-- *04.2025 - At present*, Postdoctoral researcher, Atominstitut of TU Wien, Austria.
+- *04.2025 - At present*, Postdoctoral researcher, Atominstitut of TU Wien, Austria
 - *06.2022 - 03.2025*, Postdoctoral researcher, Zhejiang Lab, China <br>
 
     - Developed a cavity cooling platform and successfully cooled the center-of-mass motion of a nanoparticle along the cavity axis to its quantum ground state (minimum phonon number n ≈ 0.47).<br>
     - Designed and built an experimental setup to investigate dipole–dipole interactions between two nanoparticles confined in optical traps with orthogonal polarizations. (*Photon. Res.12 (10), 2139-2147, 2024*).<br>
-- *09.2017 - 06.2022*, PhD in physics, Zhejiang University, China.
+  
+- *09.2017 - 06.2022*, PhD in physics, Zhejiang University, China
+
+    - Designed and constructed a complete laser cooling platform for strontium atoms, including a Zeeman slower, blue magneto-optical trap (MOT), red MOT and an optical lattice. <br>
+    - Characterized various structured light fields (e.g., Airy, vortex, partially coherent beams) to explore advanced beam dynamics. <br>
 
 # 📖 Educations
-- *09.2017 - 06.2022*, PhD in physics, Zhejiang University, China. 
-- *09.2013 - 06.2017*, Bachelor’s degree in physics, Chu Kochen Honors College, Zhejiang University, China.
+- *09.2017 - 06.2022*, PhD in physics, Zhejiang University, China
 
-# 📝 Publications 
+    - Title: Research on Laser Cooling and Optical Lattice of Strontium Atoms
+    - Supervisor: Prof. Xuanhui Lu 
+    - Award date: 30.06.2022
+
+- *09.2013 - 06.2017*, Bachelor’s degree in physics, Zhejiang University, China
+
+    - Chu Kochen Honors College
+    - Award date: 30.06.2017# 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
