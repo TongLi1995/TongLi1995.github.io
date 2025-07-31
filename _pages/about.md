@@ -41,7 +41,7 @@ My research interest includes neural machine translation and computer vision. I 
     - Designed and constructed a complete laser cooling platform for strontium atoms, including a Zeeman slower, blue magneto-optical trap (MOT), red MOT and an optical lattice. <br>
     - Characterized various structured light fields (e.g., Airy, vortex, partially coherent beams) to explore advanced beam dynamics. <br>
 
-# 📖 Educations
+# 🎓 Educations
 - *09.2017 - 06.2022*, PhD in physics, Zhejiang University, China
 
     - Title: Research on Laser Cooling and Optical Lattice of Strontium Atoms
@@ -53,7 +53,7 @@ My research interest includes neural machine translation and computer vision. I 
     - Chu Kochen Honors College
     - Award date: 30.06.2017
 
-# 📝 Fundings  
+# 💰 Fundings  
 - 🇨🇳 National Natural Science Foundation of China - Young Scientists Fund, 62305308, ¥300,000, PI 
 - 🇨🇳 Youth Foundation Project of Zhejiang Lab, ¥200,000, PI
 
