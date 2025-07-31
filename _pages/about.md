@@ -36,7 +36,7 @@ I have published more than 100 papers at the top international AI conferences wi
 - *06.2022 - 03.2025*, Postdoctoral researcher, Zhejiang Lab, China <br>
 
     - Developed a cavity cooling platform and successfully cooled the center-of-mass motion of a nanoparticle along the cavity axis to its quantum ground state (minimum phonon number n ≈ 0.47).<br>
-    - Designed and built an experimental setup to investigate dipole–dipole interactions between two nanoparticles confined in optical traps with orthogonal polarizations. ([*Photon. Res.12 (10), 2139-2147, 2024*](https://doi.org/10.1364/PRJ.529606)).<br>
+    - Designed and built an experimental setup to investigate dipole–dipole interactions between two nanoparticles confined in optical traps with orthogonal polarizations. ([*Photon. Res. 12(10), 2139-2147, 2024*](https://doi.org/10.1364/PRJ.529606)).<br>
   
 - *09.2017 - 06.2022*, PhD in physics, Zhejiang University, China
 
