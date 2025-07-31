@@ -72,7 +72,12 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- <span style="background:#0055a5;color:#fff;padding:2px 6px;border-radius:3px;font-size:0.85em;">Opt. Express 29(25), 41552-41567, 2021 (https://doi.org/10.1364/OE.443257)</span> *Vortex phase-induced properties of a partially coherent radially polarized circular Airy beam*, **T. Li**, M. Sun, J. Song, N. Zhang, X. Tong, D. Li, X. Ma, X. Zhang, K. Huang, and X. Lu
+- <span style="background:#0055a5;color:#fff;padding:2px 6px;border-radius:3px;font-size:0.85em;">
+  <a href="https://doi.org/10.1364/OE.443257" style="color:#fff;text-decoration:none;" target="_blank">
+    Opt. Express 29(25), 41552-41567, 2021
+  </a>
+  </span> 
+  *Vortex phase-induced properties of a partially coherent radially polarized circular Airy beam*, **T. Li**, M. Sun, J. Song, N. Zhang, X. Tong, D. Li, X. Ma, X. Zhang, K. Huang, and X. Lu.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
