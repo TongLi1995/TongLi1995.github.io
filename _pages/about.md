@@ -19,7 +19,9 @@ redirect_from:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes neural machine translation and computer vision. 
+To date, I have authored 11 peer-reviewed journal publications with 135 citations (Google Scholar), including six as the first author and five as a co-author. This balanced publication record demonstrates both my capacity for independent research and my effectiveness in collaborative, multidisciplinary environments. These works reflect a strong foundation in light-induced optical interactions and advanced expertise in laser field control.<img width="468" height="76" alt="image" src="https://github.com/user-attachments/assets/8dcdcb5e-17fc-48e7-83cb-f81592fdc75a" />
+I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -34,7 +36,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *06.2022 - 03.2025*, Postdoctoral researcher, Zhejiang Lab, China <br>
 
     - Developed a cavity cooling platform and successfully cooled the center-of-mass motion of a nanoparticle along the cavity axis to its quantum ground state (minimum phonon number n ≈ 0.47).<br>
-    - Designed and built an experimental setup to investigate dipole–dipole interactions between two nanoparticles confined in optical traps with orthogonal polarizations. (*Photon. Res.12 (10), 2139-2147, 2024*).<br>
+    - Designed and built an experimental setup to investigate dipole–dipole interactions between two nanoparticles confined in optical traps with orthogonal polarizations. ([*Photon. Res.12 (10), 2139-2147, 2024*](https://doi.org/10.1364/PRJ.529606)).<br>
   
 - *09.2017 - 06.2022*, PhD in physics, Zhejiang University, China
 
@@ -44,7 +46,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 🎓 Educations
 - *09.2017 - 06.2022*, PhD in physics, Zhejiang University, China
 
-    - Title: Research on Laser Cooling and Optical Lattice of Strontium Atoms
+    - Title: [Research on Laser Cooling and Optical Lattice of Strontium Atoms](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2023&filename=1023032291.nh&uniplatform=OVERSEA&v=kqitf2zZtBY_lkjqbrBi_HppETVAsl1uPLeaXjMzTzIJt4MCv3QEcGRXBJEhLw_S)
     - Supervisor: Prof. Xuanhui Lu 
     - Award date: 30.06.2022
 
@@ -63,12 +65,11 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Tunable dipole-dipole interactions between nanoparticles levitated by two orthogonally polarized optical traps](https://doi.org/10.1364/PRJ.529606)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**T. Li**, M. Wu, P. He, N. Li, Z. Chen, Z. Fu, X. Gao, and H. Hu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Photon. Res.12 (10), 2139-2147, 2024**](https://doi.org/10.1364/PRJ.529606)>
 </div>
 </div>
 
