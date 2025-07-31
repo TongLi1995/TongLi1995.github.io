@@ -53,7 +53,7 @@ My research interest includes neural machine translation and computer vision. I 
     - Chu Kochen Honors College
     - Award date: 30.06.2017
 
-# 🏛️ Fundings
+# 📝 Fundings  
 - 🇨🇳 National Natural Science Foundation of China - Young Scientists Fund, 62305308, ¥300,000, PI 
 - 🇨🇳 Youth Foundation Project of Zhejiang Lab, ¥200,000, PI
 
