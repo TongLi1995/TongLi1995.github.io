@@ -28,6 +28,9 @@ My research interest includes neural machine translation and computer vision. I 
   
 # 🦶 Professional Experience
 - *04.2025 - At present*, Postdoctoral researcher, Atominstitut of TU Wien, Austria
+
+    - Cavity-mediated nonreciprocal optical binding in a two-atom system and an atom-nanoparticle hybrid system.
+
 - *06.2022 - 03.2025*, Postdoctoral researcher, Zhejiang Lab, China <br>
 
     - Developed a cavity cooling platform and successfully cooled the center-of-mass motion of a nanoparticle along the cavity axis to its quantum ground state (minimum phonon number n ≈ 0.47).<br>
@@ -48,7 +51,14 @@ My research interest includes neural machine translation and computer vision. I 
 - *09.2013 - 06.2017*, Bachelor’s degree in physics, Zhejiang University, China
 
     - Chu Kochen Honors College
-    - Award date: 30.06.2017# 📝 Publications 
+    - Award date: 30.06.2017
+
+# 🏛️ Fundings
+- National Natural Science Foundation of China - Young Scientists Fund, 62305308, ¥300,000, PI 
+- Youth Foundation Project of Zhejiang Lab, ¥200,000, PI
+
+
+# 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,14 +74,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-- 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
