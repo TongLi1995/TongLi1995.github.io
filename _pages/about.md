@@ -75,72 +75,62 @@ My research interest includes neural machine translation and computer vision. I 
 
 - <span style="background:#0055a5;color:#fff;padding:2px 6px;border-radius:3px;font-size:0.85em;">
   <a href="https://doi.org/10.1364/OE.474368" style="color:#fff;text-decoration:none;" target="_blank">
-    Opt. Express 30(24), 44300-44308, 2022
-  </a>
-  </span> &nbsp;
+    Opt. Express 30, 2022
+  </a></span>
   *Autofocusing field constructed by ring-arrayed Pearcey Gaussian chirp beams*, M. Sun, **T. Li**, J. Song, K. Huang, J. Shi, X. Zhang, and X. Lu.
   
 - <span style="background:#0055a5;color:#fff;padding:2px 6px;border-radius:3px;font-size:0.85em;">
   <a href="https://doi.org/10.1016/j.optlastec.2021.107715" style="color:#fff;text-decoration:none;" target="_blank">
-    Optics & Laser Technology 148, 107715, 2022
-  </a>
-  </span> &nbsp;
+    Optics & Laser Technology 148, 2022
+  </a></span>
   *The abruptly auto-braiding property of the Bessel beam superimposed with circular Airy beam*, Z. Qiu, B. Cao, **T. Li**, D. Shen, K. Huang, X. Zhang, and X. Lu.
   
 - <span style="background:#0055a5;color:#fff;padding:2px 6px;border-radius:3px;font-size:0.85em;">
   <a href="https://doi.org/10.1364/OE.467601" style="color:#fff;text-decoration:none;" target="_blank">
-    Opt. Express 30(18), 32978-32989, 2022
-  </a>
-  </span> &nbsp;
+    Opt. Express 30, 2022
+  </a></span>
   *Multi-focus autofocusing circular hyperbolic umbilic beams*, N. Zhang, J. Song, D. Li, X. Tong, **T. Li**, M. Sun, X. Ma, X. Zhang, K. Huang, and X. Lu.
 
 - <span style="background:#0055a5;color:#fff;padding:2px 6px;border-radius:3px;font-size:0.85em;">
   <a href="https://doi.org/10.1364/OE.443257" style="color:#fff;text-decoration:none;" target="_blank">
-    Opt. Express 29(25), 41552-41567, 2021
-  </a>
-  </span> &nbsp;
+    Opt. Express 29, 2021
+  </a></span>
   *Vortex phase-induced properties of a partially coherent radially polarized circular Airy beam*, **T. Li**, M. Sun, J. Song, N. Zhang, X. Tong, D. Li, X. Ma, X. Zhang, K. Huang, and X. Lu.
 
 - <span style="background:#0055a5;color:#fff;padding:2px 6px;border-radius:3px;font-size:0.85em;">
   <a href="https://doi.org/10.1016/j.optlastec.2020.106814" style="color:#fff;text-decoration:none;" target="_blank">
-    Optics & Laser Technology 137, 106814, 2021
-  </a>
-  </span> &nbsp;
+    Optics & Laser Technology 137, 2021
+  </a></span>
   *Experimental generation of partially coherent circular Airy beams*, **T. Li**, X. Zhang, K. Huang, X. Lu.
 
 - <span style="background:#0055a5;color:#fff;padding:2px 6px;border-radius:3px;font-size:0.85em;">
   <a href="https://doi.org/10.1016/j.ijleo.2020.166039" style="color:#fff;text-decoration:none;" target="_blank">
-    Optik 227, 166039, 2021
-  </a>
-  </span> &nbsp;
+    Optik 227, 2021
+  </a></span>
   *A method to suppress the distortion of light spot during power amplification*, J. Deng, **T. Li**, X. Tong, N. Zhang, X. Ma, X. Zhang, K. Huang, and X. Lu.  
 
 - <span style="background:#0055a5;color:#fff;padding:2px 6px;border-radius:3px;font-size:0.85em;">
   <a href="https://doi.org/10.1364/OL.397993" style="color:#fff;text-decoration:none;" target="_blank">
-    Opt. Lett.  45(16), 4547-4550, 2020
-  </a>
-  </span> &nbsp;
+    Opt. Lett.  45, 2020
+  </a></span>
   *Partially coherent radially polarized circular Airy beam*, **T. Li**, D. Li, X. Zhang, K. Huang, and X. Lu.
   
 - <span style="background:#0055a5;color:#fff;padding:2px 6px;border-radius:3px;font-size:0.85em;">
   <a href="https://doi.org/10.1364/JOSAA.405549" style="color:#fff;text-decoration:none;" target="_blank">
-    J. Opt. Soc. Am. A 37(12), 1883-1887, 2020
-  </a>
-  </span> &nbsp;
-  *Characteristics of an elliptical Airy beam with a circular concentric vortex and its realization,” J. Opt. Soc. Am. A 37, 1883-1887 (2020), *, B. Cao, D. Shen, Z. Qiu, **T. Li**, K. Huang, X. Zhang, and X. Lu.
+    J. Opt. Soc. Am. A 37, 2020
+  </a></span>
+  *Characteristics of an elliptical Airy beam with a circular concentric vortex and its realization*, B. Cao, D. Shen, Z. Qiu, **T. Li**, K. Huang, X. Zhang, and X. Lu.
 
 - <span style="background:#0055a5;color:#fff;padding:2px 6px;border-radius:3px;font-size:0.85em;">
   <a href="https://doi.org/10.1364/JOSAA.36.000526" style="color:#fff;text-decoration:none;" target="_blank">
-    J. Opt. Soc. Am. A 36(4), 526-532, 2019
-  </a>
-  </span> &nbsp;
+    J. Opt. Soc. Am. A 36, 2019
+  </a></span>
   *Polarization transitions in the focus of radial-variant vector circular Airy beams*, **T. Li**, B. Cao, X. Zhang, X. Ma, K. Huang, and X. Lu.
 
 - <span style="background:#0055a5;color:#fff;padding:2px 6px;border-radius:3px;font-size:0.85em;">
   <a href="https://doi.org/10.1364/JOSAA.34.001530" style="color:#fff;text-decoration:none;" target="_blank">
-    J. Opt. Soc. Am. A 34(9), 1530-1534, 2017
-  </a>
-  </span> &nbsp;
+    J. Opt. Soc. Am. A 34, 2017
+  </a></span>
   *Multifocus autofocusing Airy beam*, **T. Li**, F. Zi, K. Huang, and X. Lu.
   
 # 💬 Invited Talks
