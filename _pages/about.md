@@ -72,7 +72,6 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-[7]	M. Sun, T. Li, J. Song, K. Huang, J. Shi, X. Zhang, and X. Lu, “Autofocusing field constructed by ring-arrayed Pearcey Gaussian chirp beams,” Opt. Express 30, 44300-44308 (2022), <img width="468" height="35" alt="image" src="https://github.com/user-attachments/assets/0372f8de-e908-4a64-bc48-b5b9aedd587b" />
 
 - <span style="background:#0055a5;color:#fff;padding:2px 6px;border-radius:3px;font-size:0.85em;">
   <a href="https://doi.org/10.1364/OE.474368" style="color:#fff;text-decoration:none;" target="_blank">
@@ -86,12 +85,12 @@ My research interest includes neural machine translation and computer vision. I 
     Optics & Laser Technology 148, 107715, 2022
   </a>
   </span> 
-  *The abruptly auto-braiding property of the Bessel beam superimposed with circular Airy beam*, Z. Qiu, B. Cao, **T. Li**, D. Shen, K. Huang, X. Zhang, X. Lu.
+  *The abruptly auto-braiding property of the Bessel beam superimposed with circular Airy beam*, Z. Qiu, B. Cao, **T. Li**, D. Shen, K. Huang, X. Zhang, and X. Lu.
   
 - <span style="background:#0055a5;color:#fff;padding:2px 6px;border-radius:3px;font-size:0.85em;">
   <a href="https://doi.org/10.1364/OE.467601" style="color:#fff;text-decoration:none;" target="_blank">
     Opt. Express 30(18), 32978-32989, 2022
-  </a
+  </a>
   </span> 
   *Multi-focus autofocusing circular hyperbolic umbilic beams*, N. Zhang, J. Song, D. Li, X. Tong, **T. Li**, M. Sun, X. Ma, X. Zhang, K. Huang, and X. Lu.
 
