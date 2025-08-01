@@ -22,7 +22,7 @@ redirect_from:
 
 <br><br>
 
-  After completing his PhD, he joined the research group of <a href="https://person.zju.edu.cn/huhuizhu_zju#0" target="_blank">Prof. Hu Huizhu</a> at Zhejiang Lab as a postdoctoral researcher, where he pioneered a cavity cooling platform for optically levitated nanoparticles and achieved the <strong>first demonstration of near-ground-state cooling of a levitated nanoparticle in China</strong>. In parallel, he designed and implemented an experiment to realize tunable dipole–dipole interactions between nanoparticles trapped in orthogonal optical tweezers, contributing to the development of hybrid quantum systems with long-range interactions.
+  After completing his PhD, he joined the research group of <a href="https://person.zju.edu.cn/huhuizhu_zju#0" target="_blank">Prof. Huizhu Hu</a> at Zhejiang Lab as a postdoctoral researcher, where he pioneered a cavity cooling platform for optically levitated nanoparticles and achieved the <strong>first demonstration of near-ground-state cooling of a levitated nanoparticle in China</strong>. In parallel, he designed and implemented an experiment to realize tunable dipole–dipole interactions between nanoparticles trapped in orthogonal optical tweezers, contributing to the development of hybrid quantum systems with long-range interactions.
 
 <br><br>
 
