@@ -26,13 +26,8 @@ redirect_from:
 
 <br><br>
 
-  In 2025, he joined the Atominstitut of TU Wien as a postdoctoral fellow in the group of <a href="https://www.deliclab.at/home" target="_blank">Asst. Prof. Uroš Delić</a>. His current research explores cavity-mediated nonreciprocal optical binding between two atoms and atom-nanoparticle hybrid system in a bow-tie cavity, aiming to realize programmable quantum control of atomic and nanoparticle's motional states. His research interests include atomic physics, cavity optomechanics, collective effects and quantum light–matter interactions.
-
-
-<br><br>
-
-He has received funding from the National Natural Science Foundation of China and Zhejiang Lab.
-
+  In 2025, he joined the Atominstitut of TU Wien as a postdoctoral fellow in the group of <a href="https://www.deliclab.at/home" target="_blank">Asst. Prof. Uroš Delić</a>. His current research explores cavity-mediated nonreciprocal optical binding between two atoms and atom-nanoparticle hybrid system in a bow-tie cavity, aiming to realize programmable quantum control of atomic and nanoparticle's motional states. 
+  
 <br><br>
 
   His research interests include <strong>Quantum optomechanics</strong>, <strong>Collective quantum phenomena</strong>, <strong>Cavity quantum electrodynamics</strong>, <strong>Non-Hermitian physics</strong>, <strong>Optical trapping</strong>, <strong>Atomic physics</strong>.
@@ -42,6 +37,10 @@ He has received funding from the National Natural Science Foundation of China an
   To date, he havs authored 11 peer-reviewed journal publications with 135 citations 
   (<a href="https://scholar.google.com/citations?user=oT-rbCMAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a>), 
   including six as the first author and five as a co-author. These works reflect a strong foundation in light-induced optical interactions and advanced expertise in laser field control.
+
+<br><br>
+
+He has received a total of ¥500,000 in research funding, including the Young Scientists Fund from the National Natural Science Foundation of China (¥300,000, PI) and a Youth Foundation Project from Zhejiang Lab (¥200,000).
   
 </div>
 
