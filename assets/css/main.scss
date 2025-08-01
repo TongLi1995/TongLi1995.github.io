@@ -67,6 +67,11 @@
         order: 1;
         text-align: justify;
     }
+
+    .paper-box-text p {
+    text-align: justify;
+    }
+
     
     @include breakpoint($medium) {
         .paper-box-image{
