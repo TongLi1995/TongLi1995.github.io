@@ -155,11 +155,29 @@ Photon. Res. 12(10), 2139-2147, 2024
   </a></span>
   *Multifocus autofocusing Airy beam*, **T. Li**, F. Zi, K. Huang, and X. Lu.
   
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Conference and Talks
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Photon. Res. 12, 2024</div><img src='images/PR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Tunable dipole-dipole interactions between nanoparticles levitated by two orthogonally polarized optical traps](https://doi.org/10.1364/PRJ.529606)
+
+**T. Li**, M. Wu, P. He, N. Li, Z. Chen, Z. Fu, X. Gao, and H. Hu
+
+\| [\[See more Photos\]](https://github.com/)
+</div>
+</div>
+
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Photon. Res. 12, 2024</div><img src='images/PR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Tunable dipole-dipole interactions between nanoparticles levitated by two orthogonally polarized optical traps](https://doi.org/10.1364/PRJ.529606)
+
+**T. Li**, M. Wu, P. He, N. Li, Z. Chen, Z. Fu, X. Gao, and H. Hu
+
+\| [\[See more Photos\]](https://github.com/)
+</div>
+</div>  \| [\[Photos\]](https://github.com/)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Coming soon. Work in progress. 
 
