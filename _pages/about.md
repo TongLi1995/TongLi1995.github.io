@@ -167,7 +167,7 @@ Photon. Res. 12(10), 2139-2147, 2024
 
 **Content:** We reported the first realization of motional ground-state cooling of a levitated nanoparticle in China (n ≈ 0.47) via cavity cooling.
 
-\| [\[See more Photos\]](https://github.com/)
+\| [\[See more Photos\]](https://tongli1995.github.io./images/2024COTA2.jpg)
 </div>
 </div>
 
