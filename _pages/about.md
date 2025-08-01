@@ -22,7 +22,7 @@ redirect_from:
 
   <br><br>
 
-  My research interest includes **Quantum optomechanics, Collective quantum phenomena, Cavity quantum electrodynamics, Non-Hermitian physics, Optical trapping, Atomic physics**.
+  My research interest includes <strong>Quantum optomechanics</strong>, <b>Collective quantum phenomena</b>, Cavity quantum electrodynamics, Non-Hermitian physics, Optical trapping, Atomic physics.
 
   <br><br>
 
