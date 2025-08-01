@@ -156,7 +156,7 @@ Photon. Res. 12(10), 2139-2147, 2024
   *Multifocus autofocusing Airy beam*, **T. Li**, F. Zi, K. Huang, and X. Lu.
   
 # 💬 Conference and Talks
-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Photon. Res. 12, 2024</div><img src='images/PR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Photon. Res. 12, 2024</div><img src='images/PR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Tunable dipole-dipole interactions between nanoparticles levitated by two orthogonally polarized optical traps](https://doi.org/10.1364/PRJ.529606)
@@ -167,7 +167,7 @@ Photon. Res. 12(10), 2139-2147, 2024
 </div>
 </div>
 
-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Photon. Res. 12, 2024</div><img src='images/PR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Photon. Res. 12, 2024</div><img src='images/PR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Tunable dipole-dipole interactions between nanoparticles levitated by two orthogonally polarized optical traps](https://doi.org/10.1364/PRJ.529606)
