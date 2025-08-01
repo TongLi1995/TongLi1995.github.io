@@ -22,7 +22,7 @@ redirect_from:
 
 <br><br>
 
-  After completing his PhD, he joined the research group of <a href="https://person.zju.edu.cn/huhuizhu_zju#0" target="_blank">Prof. Huizhu Hu</a> at Zhejiang Lab as a postdoctoral researcher, where he pioneered a cavity cooling platform for optically levitated nanoparticles and achieved the <strong>first demonstration of near-ground-state cooling of a levitated nanoparticle in China</strong>. In parallel, he designed and implemented an experiment to realize tunable dipole–dipole interactions between nanoparticles trapped in orthogonal optical tweezers, contributing to the development of hybrid quantum systems with long-range interactions.
+  After completing his PhD, he joined the research group of <a href="https://person.zju.edu.cn/huhuizhu_zju#0" target="_blank">Prof. Huizhu Hu</a> at Zhejiang Lab as a postdoctoral researcher, where he pioneered a cavity cooling platform for optically levitated nanoparticles and achieved the <strong>first demonstration of ground-state cooling of a levitated nanoparticle in China</strong>. In parallel, he designed and implemented an experiment to realize tunable dipole–dipole interactions between nanoparticles trapped in orthogonal optical tweezers, contributing to the development of hybrid quantum systems with long-range interactions.
 
 <br><br>
 
@@ -156,18 +156,18 @@ Photon. Res. 12(10), 2139-2147, 2024
   *Multifocus autofocusing Airy beam*, **T. Li**, F. Zi, K. Huang, and X. Lu.
   
 # 💬 Conference and Talks
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Photon. Res. 12, 2024</div><img src='images/PR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COTA 2024</div><img src='images/PR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Tunable dipole-dipole interactions between nanoparticles levitated by two orthogonally polarized optical traps](https://doi.org/10.1364/PRJ.529606)
-
-**T. Li**, M. Wu, P. He, N. Li, Z. Chen, Z. Fu, X. Gao, and H. Hu
-
+The 7th Conference on optical tweezers and their Applications (2024)
+08.11.2024 - 10.11.2024, Xian, Shaanxi, China
+**Oral:** Recent Advances in Ground-State Cooling of Nanoparticles via Intracavity Coherent Scattering
+**Content:**We reported the first realization of motional ground-state cooling of a levitated nanoparticle in China (n ≈ 0.47) via cavity cooling.
 \| [\[See more Photos\]](https://github.com/)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Photon. Res. 12, 2024</div><img src='images/PR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/PR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Tunable dipole-dipole interactions between nanoparticles levitated by two orthogonally polarized optical traps](https://doi.org/10.1364/PRJ.529606)
