@@ -184,7 +184,7 @@ Photon. Res. 12(10), 2139-2147, 2024
 
 **See more Photos：**\| [\[Photo1\]](https://tongli1995.github.io./images/LNCOTV1.jpg)\|[\[Photo2\]](https://tongli1995.github.io./images/LNCOTV2.png)\|[\[Photo3\]](https://tongli1995.github.io./images/LNCOTV4.jpg)\|[\[Photo4\]](https://tongli1995.github.io./images/LNCOTV5.jpg)\|
 </div>
-</div>  \| [\[Photos\]](https://github.com/)
+</div> 
 
 # 🎖 Honors and Awards
 - Coming soon. Work in progress. 
