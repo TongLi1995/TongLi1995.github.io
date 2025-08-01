@@ -171,7 +171,7 @@ Photon. Res. 12(10), 2139-2147, 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LeviNet-Zhejiang 2024</div><img src='images/LNCOTV2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LeviNet-Zhejiang 2024</div><img src='images/LNCOTV3.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **LeviNet – Zhejiang joint conference on Optical Tweezers in Vacuum (2024)**
