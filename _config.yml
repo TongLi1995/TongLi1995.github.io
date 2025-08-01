@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tong Li"
   avatar           : "images/person2.jpg"
-  bio              : "Postdoctoral researcher"
-  location         : #"Vienna, Austria"
-  employer         : "Atominstitut of TU Wien, Austria"
+  bio              : "Postdoc, Atominstitut of TU Wien"
+  location         : "Vienna, Austria"
+  employer         : #"Atominstitut of TU Wien"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oT-rbCMAAAAJ"
   email            : "tong.li@tuwien.ac.at"
