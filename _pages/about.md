@@ -159,13 +159,13 @@ Photon. Res. 12(10), 2139-2147, 2024
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COTA 2024</div><img src='images/PR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-The 7th Conference on optical tweezers and their Applications (2024)
+**The 7th Conference on optical tweezers and their Applications (2024)**
 
 08.11.2024 - 10.11.2024, Xian, Shaanxi, China
 
 **Oral:** Recent Advances in Ground-State Cooling of Nanoparticles via Intracavity Coherent Scattering
 
-**Content:**We reported the first realization of motional ground-state cooling of a levitated nanoparticle in China (n ≈ 0.47) via cavity cooling.
+**Content:** We reported the first realization of motional ground-state cooling of a levitated nanoparticle in China (n ≈ 0.47) via cavity cooling.
 
 \| [\[See more Photos\]](https://github.com/)
 </div>
