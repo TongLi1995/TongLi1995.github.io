@@ -20,20 +20,29 @@ redirect_from:
 <div style="text-align: justify;">
   <b>Tong Li</b>, born in Shaanxi, China, in 1995, studied physics at Zhejiang University, where he graduated from the <b>Chu Kochen Honors College</b> with a Bachelor's degree and continued his graduate studies in the <b>Department of Physics</b>, earning his PhD in 2019 under the supervision of <b>Prof. Xuanhui Lu</b>. His doctoral work focused on laser cooling and optical lattices of strontium atoms, including precision measurements, optical trapping and laser stabilization techniques.
 
-After completing his PhD, he joined the research group of <b href="https://person.zju.edu.cn/huhuizhu_zju#0" target="_blank">Prof. Hu Huizhu</b> at Zhejiang Lab as a postdoctoral researcher, where he pioneered a cavity cooling platform for optically levitated nanoparticles and achieved the <strong>first demonstration of near-ground-state cooling of a levitated nanoparticle in China</strong>. In parallel, he designed and implemented an experiment to realize tunable dipole–dipole interactions between nanoparticles trapped in orthogonal optical tweezers, contributing to the development of hybrid quantum systems with long-range interactions.
+<br><br>
 
-In 2025, he joined the Atominstitut of TU Wien as a postdoctoral fellow in the group of <b href="https://www.deliclab.at/home" target="_blank">Asst. Prof. Uroš Delić</b>. His current research explores cavity-mediated nonreciprocal optical binding between two atoms and atom-nanoparticle hybrid system in a bow-tie cavity, aiming to realize programmable quantum control of atomic and nanoparticle's motional states. His research interests include atomic physics, cavity optomechanics, collective effects and quantum light–matter interactions.
+  After completing his PhD, he joined the research group of <a href="https://person.zju.edu.cn/huhuizhu_zju#0" target="_blank">Prof. Hu Huizhu</a> at Zhejiang Lab as a postdoctoral researcher, where he pioneered a cavity cooling platform for optically levitated nanoparticles and achieved the <strong>first demonstration of near-ground-state cooling of a levitated nanoparticle in China</strong>. In parallel, he designed and implemented an experiment to realize tunable dipole–dipole interactions between nanoparticles trapped in orthogonal optical tweezers, contributing to the development of hybrid quantum systems with long-range interactions.
+
+<br><br>
+
+  In 2025, he joined the Atominstitut of TU Wien as a postdoctoral fellow in the group of <a href="https://www.deliclab.at/home" target="_blank">Asst. Prof. Uroš Delić</a>. His current research explores cavity-mediated nonreciprocal optical binding between two atoms and atom-nanoparticle hybrid system in a bow-tie cavity, aiming to realize programmable quantum control of atomic and nanoparticle's motional states. His research interests include atomic physics, cavity optomechanics, collective effects and quantum light–matter interactions.
+
+
+<br><br>
 
 He has received funding from the National Natural Science Foundation of China and Zhejiang Lab.
-  <br><br>
 
-  My research interests include <strong>Quantum optomechanics</strong>, <strong>Collective quantum phenomena</strong>, <strong>Cavity quantum electrodynamics</strong>, <strong>Non-Hermitian physics</strong>, <strong>Optical trapping</strong>, <strong>Atomic physics</strong>.
+<br><br>
 
-  <br><br>
+  His research interests include <strong>Quantum optomechanics</strong>, <strong>Collective quantum phenomena</strong>, <strong>Cavity quantum electrodynamics</strong>, <strong>Non-Hermitian physics</strong>, <strong>Optical trapping</strong>, <strong>Atomic physics</strong>.
 
-  To date, I have authored 11 peer-reviewed journal publications with 135 citations 
+<br><br>
+
+  To date, he havs authored 11 peer-reviewed journal publications with 135 citations 
   (<a href="https://scholar.google.com/citations?user=oT-rbCMAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a>), 
-  including six as the first author and five as a co-author. This balanced publication record demonstrates both my capacity for independent research and my effectiveness in collaborative, multidisciplinary environments. These works reflect a strong foundation in light-induced optical interactions and advanced expertise in laser field control.
+  including six as the first author and five as a co-author. These works reflect a strong foundation in light-induced optical interactions and advanced expertise in laser field control.
+  
 </div>
 
 # 🔥 News
