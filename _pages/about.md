@@ -155,7 +155,7 @@ Photon. Res. 12(10), 2139-2147, 2024
   </a></span>
   *Multifocus autofocusing Airy beam*, **T. Li**, F. Zi, K. Huang, and X. Lu.
   
-# 💬 Conference and Talks
+# 💬 Conferences and Talks
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COTA 2024</div><img src='images/2024COTA1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
