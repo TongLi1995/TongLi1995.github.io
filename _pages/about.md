@@ -167,11 +167,11 @@ Photon. Res. 12(10), 2139-2147, 2024
 
 **Content:** We reported the first realization of motional ground-state cooling of a levitated nanoparticle in China (n ≈ 0.47) via cavity cooling.
 
-\| [\[See more Photos\]](https://tongli1995.github.io./images/2024COTA2.jpg)
+**See more Photos：**\| [\[Photo1\]](https://tongli1995.github.io./images/2024COTA2.jpg)\|
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LeviNet-Zhejiang 2024</div><img src='images/LNCOTV2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LeviNet-Zhejiang 2024</div><img src='images/LNCOTV2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **LeviNet – Zhejiang joint conference on Optical Tweezers in Vacuum (2024)**
@@ -182,7 +182,7 @@ Photon. Res. 12(10), 2139-2147, 2024
 
 **Content:** We were actively involved in organizing and hosting the conference. Before the event, we welcomed international experts and arranged logistical support. During the conference, we coordinated the program schedule, chaired scientific sessions, and facilitated discussions. After the conference, we organized a laboratory tour and conducted in-depth technical exchanges with attending experts.
 
-\| [\[See more Photos\]](https://github.com/)
+**See more Photos：**\| [\[Photo1\]](https://tongli1995.github.io./images/LNCOTV1.jpg)\|[\[Photo2\]](https://tongli1995.github.io./images/LNCOTV2.png)\|[\[Photo3\]](https://tongli1995.github.io./images/LNCOTV4.jpg)\|[\[Photo4\]](https://tongli1995.github.io./images/LNCOTV5.jpg)\|
 </div>
 </div>  \| [\[Photos\]](https://github.com/)
 
