@@ -22,7 +22,7 @@ redirect_from:
 
   <br><br>
 
-  My research interest includes neural machine translation and computer vision.
+  My research interest includes **Quantum optomechanics, Collective quantum phenomena, Cavity quantum electrodynamics, Non-Hermitian physics, Optical trapping, Atomic physics**.
 
   <br><br>
 
@@ -30,12 +30,6 @@ redirect_from:
   (<a href="https://scholar.google.com/citations?user=oT-rbCMAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a>), 
   including six as the first author and five as a co-author. This balanced publication record demonstrates both my capacity for independent research and my effectiveness in collaborative, multidisciplinary environments. These works reflect a strong foundation in light-induced optical interactions and advanced expertise in laser field control.
 </div>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. 
-
-To date, I have authored 11 peer-reviewed journal publications with 135 citations ([Google Scholar](https://scholar.google.com/citations?user=oT-rbCMAAAAJ&hl=zh-CN)), including six as the first author and five as a co-author. This balanced publication record demonstrates both my capacity for independent research and my effectiveness in collaborative, multidisciplinary environments. These works reflect a strong foundation in light-induced optical interactions and advanced expertise in laser field control.
 
 # 🔥 News
 - *01.04.2025*, 🎉🎉 I arrive in Vienna to begin my new research journey.
