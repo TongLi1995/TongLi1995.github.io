@@ -187,5 +187,4 @@ Photon. Res. 12(10), 2139-2147, 2024
 </div> 
 
 # 🎖 Honors and Awards
-- Coming soon. Work in progress. 
-
+- Awarded the Grand Prize in the 6th CUPT (China Undergraduate Physics Tournament), 2015.
