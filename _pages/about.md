@@ -34,7 +34,7 @@ redirect_from:
 
 <br><br>
 
-  To date, he havs authored 11 peer-reviewed journal publications with 135 citations 
+  To date, he havs authored 11 peer-reviewed journal publications with 151 citations 
   (<a href="https://scholar.google.com/citations?user=oT-rbCMAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a>), 
   including six as the first author and five as a co-author. These works reflect a strong foundation in light-induced optical interactions and advanced expertise in laser field control.
 
