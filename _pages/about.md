@@ -26,7 +26,7 @@ redirect_from:
 
 <br><br>
 
-  In 2025, he joined the Atominstitut of TU Wien as a postdoctoral fellow in the group of <a href="https://www.deliclab.at/home" target="_blank">Asst. Prof. Uroš Delić</a>. His current research explores cavity-mediated nonreciprocal optical binding between two atoms and atom-nanoparticle hybrid system in a bow-tie cavity, aiming to realize programmable quantum control of atomic and nanoparticle's motional states. 
+  In 2025, he joined the Atominstitut of TU Wien as a postdoctoral fellow in the group of <a href="https://www.deliclab.at/home" target="_blank">Ass. Prof. Dr. Uroš Delić</a>. His current research explores cavity-mediated nonreciprocal optical binding between two atoms and atom-nanoparticle hybrid system in a bow-tie cavity, aiming to realize programmable quantum control of atomic and nanoparticle's motional states. 
   
 <br><br>
 
