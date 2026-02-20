@@ -53,25 +53,27 @@ He has received a total of ¥500,000 in research funding, including the Young Sc
 
     - Cavity-mediated nonreciprocal optical binding in a two-atom system and an atom-nanoparticle hybrid system.
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">First Postdoc research: Ground state cooling of nanoparticle</div><img src='images/Postdoc1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 - *06.2022 - 03.2025*, Postdoctoral researcher, Zhejiang Lab, China <br>
 
     - Developed a cavity cooling platform and successfully cooled the center-of-mass motion of a nanoparticle along the cavity axis to its quantum ground state (minimum phonon number n ≈ 0.47).<br>
     - Designed and built an experimental setup to investigate dipole–dipole interactions between two nanoparticles confined in optical traps with orthogonal polarizations. ([*Photon. Res. 12(10), 2139-2147, 2024*](https://doi.org/10.1364/PRJ.529606)).<br>
-  
-- *09.2017 - 06.2022*, PhD in physics, Zhejiang University, China
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Photon. Res. 12, 2024</div><img src='images/PhD.png' alt="sym" width="100%"></div></div>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PhD research: Sr cooling</div><img src='images/PhD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+- *09.2017 - 06.2022*, PhD in physics, Zhejiang University, China
 
-[Tunable dipole-dipole interactions between nanoparticles levitated by two orthogonally polarized optical traps](https://doi.org/10.1364/PRJ.529606)
-
-**T. Li**, M. Wu, P. He, N. Li, Z. Chen, Z. Fu, X. Gao, and H. Hu
-
-Photon. Res. 12(10), 2139-2147, 2024
-
-</div>
-</div>
     - Designed and constructed a complete laser cooling platform for strontium atoms, including a Zeeman slower, blue magneto-optical trap (MOT), red MOT and an optical lattice. <br>
     - Characterized various structured light fields (e.g., Airy, vortex, partially coherent beams) to explore advanced beam dynamics. <br>
+    
+</div>
+</div>
+
 
 # 🎓 Educations
 - *09.2017 - 06.2022*, PhD in physics, Zhejiang University, China
