@@ -59,7 +59,17 @@ He has received a total of ¥500,000 in research funding, including the Young Sc
     - Designed and built an experimental setup to investigate dipole–dipole interactions between two nanoparticles confined in optical traps with orthogonal polarizations. ([*Photon. Res. 12(10), 2139-2147, 2024*](https://doi.org/10.1364/PRJ.529606)).<br>
   
 - *09.2017 - 06.2022*, PhD in physics, Zhejiang University, China
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Photon. Res. 12, 2024</div><img src='images/PhD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Tunable dipole-dipole interactions between nanoparticles levitated by two orthogonally polarized optical traps](https://doi.org/10.1364/PRJ.529606)
+
+**T. Li**, M. Wu, P. He, N. Li, Z. Chen, Z. Fu, X. Gao, and H. Hu
+
+Photon. Res. 12(10), 2139-2147, 2024
+
+</div>
+</div>
     - Designed and constructed a complete laser cooling platform for strontium atoms, including a Zeeman slower, blue magneto-optical trap (MOT), red MOT and an optical lattice. <br>
     - Characterized various structured light fields (e.g., Airy, vortex, partially coherent beams) to explore advanced beam dynamics. <br>
 
