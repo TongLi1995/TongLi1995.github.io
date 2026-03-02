@@ -68,7 +68,7 @@ He has received a total of ¥500,000 in research funding, including the Young Sc
 <div class='paper-box-text' markdown="1">
 - *09.2017 - 06.2022*, PhD in physics, Zhejiang University, China
 
-    - Designed and constructed a laser cooling platform for strontium atoms **from scratch**, including a Zeeman slower, blue magneto-optical trap (MOT), red MOT and an optical lattice, as shown in [**left figure**](https://tongli1995.github.io./images/Postdoc1.png). <br>
+    - Designed and constructed a laser cooling platform for strontium atoms **from scratch**, including a Zeeman slower, blue magneto-optical trap (MOT), red MOT and an optical lattice, as shown in [**left figure**](https://tongli1995.github.io./images/PhD.png). <br>
     - Characterized various structured light fields (e.g., Airy, vortex, partially coherent beams) to explore advanced beam dynamics, see more details in the Publications list. <br>
     
 </div>
