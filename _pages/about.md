@@ -78,7 +78,7 @@ He has received a total of ¥500,000 in research funding, including the Young Sc
 # 🎓 Educations
 - *09.2017 - 06.2022*, PhD in physics, Zhejiang University, China
 
-    - Title: [Research on Laser Cooling and Optical Lattice of Strontium Atoms](https://github.com/TongLi1995/TongLi1995.github.io/raw/main/docs/PhD_thesis_Tong_Li.pdf)
+    - Title: [Research on Laser Cooling and Optical Lattice of Strontium Atoms](https://tongli1995.github.io/docs/PhD_thesis_Tong_Li.pdf)
     - Supervisor: Prof. Xuanhui Lu 
     - Award date: 30.06.2022
 
