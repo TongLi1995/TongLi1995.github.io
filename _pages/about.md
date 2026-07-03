@@ -68,7 +68,7 @@ He has received a total of ¥500,000 in research funding, including the Young Sc
 <div class='paper-box-text' markdown="1">
 - *09.2017 - 06.2022*, PhD in physics, Zhejiang University, China
 
-    - Designed and constructed a laser cooling platform for strontium atoms **from scratch**, including a Zeeman slower, blue magneto-optical trap (MOT), red MOT and an optical lattice, as shown in [**left figure**](https://tongli1995.github.io./images/PhD.png). See more detail in [**PhD thesis**](https://github.com/TongLi1995/TongLi1995.github.io/raw/main/docs/PhD_thesis_Tong_Li.pdf). <br>
+    - Designed and constructed a laser cooling platform for strontium atoms **from scratch**, including a Zeeman slower, blue magneto-optical trap (MOT), red MOT and an optical lattice, as shown in [**left figure**](https://tongli1995.github.io./images/PhD.png). See more detail in [**PhD thesis**](https://doi.org/10.5281/zenodo.21173493). <br>
     - Characterized various structured light fields (e.g., Airy, vortex, partially coherent beams) to explore advanced beam dynamics, see more details in the Publications list. <br>
     
 </div>
@@ -78,7 +78,7 @@ He has received a total of ¥500,000 in research funding, including the Young Sc
 # 🎓 Educations
 - *09.2017 - 06.2022*, PhD in physics, Zhejiang University, China
 
-    - Title: [Research on Laser Cooling and Optical Lattice of Strontium Atoms](https://tongli1995.github.io/docs/PhD_thesis_Tong_Li.pdf)
+    - Title: [Research on Laser Cooling and Optical Lattice of Strontium Atoms](https://doi.org/10.5281/zenodo.21173493)
     - Supervisor: Prof. Xuanhui Lu 
     - Award date: 30.06.2022
 
