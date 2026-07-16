@@ -34,7 +34,7 @@ redirect_from:
 
 <br><br>
 
-  To date, he havs authored 11 peer-reviewed journal publications with 151 citations 
+  To date, he havs authored 11 peer-reviewed journal publications with 169 citations 
   (<a href="https://scholar.google.com/citations?user=oT-rbCMAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a>), 
   including six as the first author and five as a co-author. These works reflect a strong foundation in light-induced optical interactions and advanced expertise in laser field control.
 
@@ -45,8 +45,9 @@ He has received a total of ¥500,000 in research funding, including the Young Sc
 </div>
 
 # 🔥 News
-- *01.04.2025*, 🎉🎉 I arrive in Vienna to begin my new research journey.
-- *30.10.2024*, 🎉🎉 I successfully cool the COM motion of a nanoparticle along the cavity axis to its quantum ground state (n ≈ 0.47).
+- *15.07.2026*, 🎉🎉🎉 My quantA Discovery Project was approved for funding!
+- *01.04.2025*, 🎉🎉🎉 I arrive in Vienna to begin my new research journey.
+- *30.10.2024*, 🎉🎉🎉 I successfully cool the COM motion of a nanoparticle along the cavity axis to its quantum ground state (n ≈ 0.47).
   
 # 🦶 Professional Experience
 - *04.2025 - At present*, Postdoctoral researcher, Atominstitut of TU Wien, Austria
