@@ -88,7 +88,8 @@ He has received a total of ¥500,000 in research funding, including the Young Sc
     - Chu Kochen Honors College
     - Award date: 30.06.2017
 
-# 💰 Fundings  
+# 💰 Fundings
+- 🇦🇹 QuantA Discovery Project, €100,000, PI
 - 🇨🇳 National Natural Science Foundation of China - Young Scientists Fund, 62305308, ¥300,000, PI 
 - 🇨🇳 Youth Foundation Project of Zhejiang Lab, ¥200,000, PI
 
