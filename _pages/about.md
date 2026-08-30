@@ -170,12 +170,12 @@ Photon. Res. 12(10), 2139-2147, 2024
   *Multifocus autofocusing Airy beam*, **T. Li**, F. Zi, K. Huang, and X. Lu.
   
 # 💬 Conferences and Talks
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">YQIS 2026</div><img src='images/YQIS1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">YQIS 2026</div><img src='images/YQIS1.jpg' alt="sym" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **International Conference forYoung Quantum Information Scientists (2026)**
 
-24.08.2026 - 28.08.2024, Xian, Shaanxi, China
+24.08.2026 - 28.08.2026, Vienna, Austria
 
 **Poster:** Toward Quantum State Engineering in Hybrid Atom-Nanoparticle System
 
