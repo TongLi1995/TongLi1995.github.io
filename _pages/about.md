@@ -170,6 +170,21 @@ Photon. Res. 12(10), 2139-2147, 2024
   *Multifocus autofocusing Airy beam*, **T. Li**, F. Zi, K. Huang, and X. Lu.
   
 # 💬 Conferences and Talks
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">YQIS 2026</div><img src='images/YQIS1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**International Conference forYoung Quantum Information Scientists (2026)**
+
+24.08.2026 - 28.08.2024, Xian, Shaanxi, China
+
+**Poster:** Toward Quantum State Engineering in Hybrid Atom-Nanoparticle System
+
+**Content:** We present the recent progress of our hybrid atom–nanoparticle project.
+
+**See more Photos：**\| [\[Photo1\]](https://tongli1995.github.io./images/YQIS2.jpg)\|[\[Photo2\]](https://tongli1995.github.io./images/YQIS3.jpg)\|
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COTA 2024</div><img src='images/2024COTA1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
